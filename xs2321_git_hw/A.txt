@@ -1,4 +1,2 @@
-abcdefg
-hijklmn
-opq rst
-uvw xyz
+ABCDEFG
+HIJKLMN
