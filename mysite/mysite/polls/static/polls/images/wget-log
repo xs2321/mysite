@@ -1,0 +1,6 @@
+--2019-11-19 05:03:04--  https://www.google.com/search?q=aurora
+Resolving www.google.com (www.google.com)... 172.217.13.228, 2607:f8b0:4004:801::2004
+Connecting to www.google.com (www.google.com)|172.217.13.228|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2019-11-19 05:03:05 ERROR 403: Forbidden.
+
